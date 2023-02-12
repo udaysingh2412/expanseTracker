@@ -360,4 +360,6 @@ class _Add_ScreenState extends State<Add_Screen> {
       ],
     );
   }
+
+  void add() {}
 }
