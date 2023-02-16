@@ -5,8 +5,10 @@ this project i creat an awesome  Finance App UI and backend
 tutorial :
 https://www.youtube.com/watch?v=9-QFt-cWZV8&ab_channel=flutterskills
 
-## home_page:
-![](https://user-images.githubusercontent.com/102475069/196632952-349c0bf9-a0a2-45d2-a0c1-3f7e34dd823c.png)
+## home_page:<img width="247" alt="Screenshot 2023-02-16 123026" src="https://user-images.githubusercontent.com/94116777/219292053-b3dcccf5-e5f8-4da2-ac15-b0d4043f698b.png">
+
+
+
 
 ## statistics_page:
 ![Screenshot_1659640778](https://user-images.githubusercontent.com/102475069/196633092-f933f964-5930-4686-8ce8-9e702ebfb1b7.png)
