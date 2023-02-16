@@ -1,11 +1,10 @@
-# Finance App
+# Expense Tracker App
 
-this project i creat an awesome  Finance App UI and backend
+this project i created an awesome  Expense Tracker App UI and backend using hive database. It was an walkthrough practice to app to develop my app development skills.
 
-tutorial :
-https://www.youtube.com/watch?v=9-QFt-cWZV8&ab_channel=flutterskills
 
-## home_page:<img width="247" alt="Screenshot 2023-02-16 123026" src="https://user-images.githubusercontent.com/94116777/219292053-b3dcccf5-e5f8-4da2-ac15-b0d4043f698b.png">
+
+## home_page:<img alt="Screenshot 2023-02-16 123026" src="https://user-images.githubusercontent.com/94116777/219292053-b3dcccf5-e5f8-4da2-ac15-b0d4043f698b.png">
 
 
 
