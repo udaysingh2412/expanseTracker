@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-this project i created an awesome  Expense Tracker App UI and backend using hive database. It was an walkthrough practice to app to develop my app development skills.
+In this project i created an awesome  Expense Tracker App UI and backend using hive database. It was an walkthrough practice to app to develop my app development skills.
 
 
 
